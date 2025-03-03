@@ -1,6 +1,7 @@
-# Quantum Carleman Lattice Boltzmann Simulation of Fluids
+# Quantum Linear Embedding
 
-This is a repository of the code accompanying "Quantum Carleman Lattice Boltzmann Simulation of Fluids". It implements the linear embedding introduced by Kowalski to describe nonlinear dynamics in terms of bosonic Hamiltonians. If you find this work useful in your research, please cite:
+This is a repository implements the linear embedding introduced by Kowalski to describe nonlinear dynamics in terms of bosonic Hamiltonians. If you find this work useful in your research, please cite:
 
-Itani, W., Sreenivasan, K. R., & Succi, S. (2023). Quantum Carleman Lattice Boltzmann Simulation of Fluids (arXiv:2301.05762). arXiv. https://doi.org/10.48550/arXiv.2301.05762
+Itani, W., Sreenivasan, K. R., & Succi, S. (2024). Quantum algorithm for lattice Boltzmann (QALB) simulation of incompressible fluids with a nonlinear collision term. Physics of Fluids, 36(1), 017112. https://doi.org/10.1063/5.0176569
+
 
